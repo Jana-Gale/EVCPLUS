@@ -23,7 +23,8 @@ if (pin_evc == pin) {
 
     } //kaarka hadalka 2
     else if (services == 2) {
-        let kaarka_hadalka = prompt("Kaarka hadalka \n1. Ku Shubo Airtime \n2. Ugu Shub Airtime ")
+        let kaarka_hadalka = prompt("Kaarka hadalka \n1. Ku Shubo Airtime \n2. Ugu Shub Airtime\n3. MIFI Packages\
+        \n4. Kushubo Internet\n5. Ugu shub qof kale (MMT) ")
 
         //valid select kaarka hadalka
         //kaarka hadalka part1
@@ -68,7 +69,7 @@ if (pin_evc == pin) {
 
 
 
-        } else { alert('Invalid Number') }
+        } else { alert('Mahadsanid Macaaniil...') }
 
 
 
